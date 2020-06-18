@@ -6,7 +6,7 @@
 body {	background: rgb(58,180,89); 
 	background: linear-gradient(90deg, rgba(58,180,89,1), rgba(73,253,29,0.9570027840237657), rgba(169,252,69,1), rgba(200,252,69,1), rgba(237,252,69,1)); 
 	background-size: 100% 100%;
-	animation: subody 10s ease infinite;
+	animation: subody 5s ease infinite;
 	/* background-image: url(image1.jpg); */
 	/* background-size: cover;
 	background-position: center; */
